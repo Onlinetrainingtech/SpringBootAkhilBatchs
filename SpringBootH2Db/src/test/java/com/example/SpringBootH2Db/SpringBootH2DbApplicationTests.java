@@ -1,15 +1,13 @@
-package com.example.MrgSpringBootP1;
+package com.example.SpringBootH2Db;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MrgSpringBootP1ApplicationTests {
+class SpringBootH2DbApplicationTests {
 
 	@Test
-	void contextLoads() 
-	{
-		
+	void contextLoads() {
 	}
 
 }
